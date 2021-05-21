@@ -78,7 +78,7 @@ public:
 int main()
 {
     //parameterized constructor user
-    Employee emp3("gaurav",24,"self");
+    Employee emp3("gaurav",24,"tcs");
     Employee emp4("S.n Soni",54,"AVVNL");
     
     emp3.AskForPromotion();
